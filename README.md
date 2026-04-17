@@ -22,7 +22,7 @@ Run the script in a Jupyter Notebook or terminal.
 Follow the on-screen prompts to enter stock PERMNOs (e.g., 14593 for Apple) and the desired date range.
 6. Product link / Demo
 (Note: Since this is a local script, you can link to your GitHub repository here)
-GitHub Repository: [Insert your GitHub Link Here]
+GitHub Repository: https://github.com/LinluDeng/ACC102-data-product/tree/main
 Demo Video: [Insert a link to a screen recording of the code running, if available]
 7. Limitations & next steps
 Limitations: Currently relies on manual input of PERMNOs (stock IDs), which may be unfamiliar to non-expert users. The analysis is purely historical and does not predict future prices.
