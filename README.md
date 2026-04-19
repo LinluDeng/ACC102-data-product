@@ -23,7 +23,7 @@ Follow the on-screen prompts to enter stock PERMNOs (e.g., 14593 for Apple) and 
 6. Product link / Demo
 (Note: Since this is a local script, you can link to your GitHub repository here)
 GitHub Repository: https://github.com/LinluDeng/ACC102-data-product/tree/main
-Demo Video: [Insert a link to a screen recording of the code running, if available]
+Demo Video: 【ACC102 LinluDeng vedio】https://www.bilibili.com/video/BV1q4dfBNEjN?vd_source=3996f968d69d08b5e5d646f1449a673d
 7. Limitations & next steps
 Limitations: Currently relies on manual input of PERMNOs (stock IDs), which may be unfamiliar to non-expert users. The analysis is purely historical and does not predict future prices.
 Next Steps: Integrate an automatic ticker-to-PERMNO lookup feature. Incorporate fundamental data (e.g., P/E ratios) from the Compustat database to enhance valuation analysis.
