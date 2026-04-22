@@ -21,7 +21,6 @@ Ensure you have a valid WRDS username and password.
 Run the script in a Jupyter Notebook or terminal.
 Follow the on-screen prompts to enter stock PERMNOs (e.g., 14593 for Apple) and the desired date range.
 6. Product link / Demo
-(Note: Since this is a local script, you can link to your GitHub repository here)
 GitHub Repository: https://github.com/LinluDeng/ACC102-data-product/tree/main
 Demo Video: 【ACC102 LinluDeng vedio】https://www.bilibili.com/video/BV1q4dfBNEjN?vd_source=3996f968d69d08b5e5d646f1449a673d
 7. Limitations & next steps
